@@ -1,0 +1,242 @@
+2022-07-12T06:48:20+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:48:50+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:49:28+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:49:39+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:49:49+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:50:33+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:51:04+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:51:14+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:53:16+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:56:23+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:56:56+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:57:21+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T06:57:42+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:01:05+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:01:10+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:01:33+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:01:42+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:02:21+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:02:23+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T07:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:60
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7 {main} in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 60
+
+2022-07-12T09:36:17+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:59
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 59
+
+2022-07-12T09:38:38+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php:59
+Stack trace:
+#0 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template.php(716): load_template('C:\\Users\\Aslam ...', true, Array)
+#2 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\front-page.php(15): get_header()
+#4 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Aslam ...')
+#5 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Aslam ...')
+#6 C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\index.php(17): require('C:\\Users\\Aslam ...')
+#7  in C:\Users\Aslam Ahamed\Local Sites\dtc-test\app\public\wp-content\themes\dtctheme\header.php on line 59
+
