@@ -9165,10 +9165,10 @@ ins .woocommerce-Price-amount {
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
-.page-id-2 .woocommerce-result-count {
+.section-three .woocommerce-result-count {
   display: none;
 }
-.page-id-2 .woocommerce-ordering {
+.section-three .woocommerce-ordering {
   display: none;
 }
 
@@ -9193,15 +9193,15 @@ ins .woocommerce-Price-amount {
 }
 
 /*** Section 4 ***/
-.page-id-2 .special-product {
+.section-three .special-product {
   display: flex;
   background-color: white;
   align-items: center;
 }
-.page-id-2 .sp-cart {
+.section-three .sp-cart {
   margin-left: 20px;
 }
-.page-id-2 .sp-cart:before {
+.section-three .sp-cart:before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f07a" !important;
@@ -9209,20 +9209,20 @@ ins .woocommerce-Price-amount {
   background-color: #1eb089;
   padding: 8px;
 }
-.page-id-2 .sp-text {
+.section-three .sp-text {
   color: #818181;
   margin-left: 40px;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 12px;
 }
-.page-id-2 .sp-price {
+.section-three .sp-price {
   font-weight: bold;
 }
-.page-id-2 .sp-strike {
+.section-three .sp-strike {
   color: red;
 }
-.page-id-2 .vertical {
+.section-three .vertical {
   background-image: linear-gradient(#818181, #818181);
   background-size: 1px 100%;
   background-repeat: no-repeat;
@@ -9405,7 +9405,7 @@ ins .woocommerce-Price-amount {
     background-color: #1eb089;
     color: #fff;
   }
-  .page-id-2 .vertical {
+  .section-three .vertical {
     margin-bottom: 10px;
   }
 }/*# sourceMappingURL=main.css.map */
