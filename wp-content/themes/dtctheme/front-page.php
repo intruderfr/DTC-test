@@ -94,7 +94,7 @@ get_header();
 			<div class="row d-flex pt-2 pb-3">
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
@@ -103,7 +103,7 @@ get_header();
 				</div>
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
@@ -112,7 +112,7 @@ get_header();
 				</div>
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
@@ -123,7 +123,7 @@ get_header();
 			<div class="row d-flex pt-2 pb-3">
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
@@ -132,7 +132,7 @@ get_header();
 				</div>
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
@@ -141,7 +141,7 @@ get_header();
 				</div>
 				<div class="col-12 col-lg-4">
 					<div class="special-product vertical">
-						<div class="sp-img"> <img width="100" height="100" src="http://dtc-shop.local/wp-content/uploads/2022/07/product-bag.jpg"/></div>
+						<div class="sp-img"> <img width="100" height="100" src="./wp-content/uploads/2022/07/product-bag.jpg"/></div>
 						<div class="sp-cart"></div>
 						<div class="sp-text">Modular Modern <br>
 							<span class="sp-price">$540.00 <strike class="sp-strike"> $600.00</strike></span>
